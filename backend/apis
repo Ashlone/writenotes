@@ -1,0 +1,26 @@
+WritingNotes API End Points
+
+Auth
+
+1.CREATE USER
+/api/auth/register
+
+2.LOG IN USER
+/api/auth/login
+
+Notes
+
+3.CREATE NOTE
+/api/notes/create
+
+4. UPDATE NOTE
+/api/notes/:id
+
+5. DELETE NOTE
+/api/notes/:id
+
+6. GET SINGLE NOTE
+/api/note/:id
+
+7. GET ALL Notes
+/api/notes
